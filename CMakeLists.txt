@@ -3,4 +3,4 @@ project(untitled3)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(untitled3 main.cpp SkipList.cpp SkipList.h)
+add_executable(untitled3 main.cpp SkipList.h)

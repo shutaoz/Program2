@@ -143,33 +143,6 @@ untitled3/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled3.dir/build.make CMakeFiles/untitled3.dir/build
 .PHONY : untitled3/fast
 
-SkipList.o: SkipList.cpp.o
-
-.PHONY : SkipList.o
-
-# target to build an object file
-SkipList.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled3.dir/build.make CMakeFiles/untitled3.dir/SkipList.cpp.o
-.PHONY : SkipList.cpp.o
-
-SkipList.i: SkipList.cpp.i
-
-.PHONY : SkipList.i
-
-# target to preprocess a source file
-SkipList.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled3.dir/build.make CMakeFiles/untitled3.dir/SkipList.cpp.i
-.PHONY : SkipList.cpp.i
-
-SkipList.s: SkipList.cpp.s
-
-.PHONY : SkipList.s
-
-# target to generate assembly for a file
-SkipList.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled3.dir/build.make CMakeFiles/untitled3.dir/SkipList.cpp.s
-.PHONY : SkipList.cpp.s
-
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -206,9 +179,6 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled3"
-	@echo "... SkipList.o"
-	@echo "... SkipList.i"
-	@echo "... SkipList.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

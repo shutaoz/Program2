@@ -78,9 +78,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/shutaozhang/CLionProjects/untitled3/SkipList.cpp">
-			<Option target="untitled3"/>
-		</Unit>
 		<Unit filename="/Users/shutaozhang/CLionProjects/untitled3/SkipList.h">
 			<Option target="untitled3"/>
 		</Unit>
