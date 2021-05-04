@@ -1,6 +1,6 @@
-//
-// Created by Shutao Zhang on 5/1/21.
-//
+// SkipList.h
+// Created by Shutao Zhang on 5/03/21.
+// This is the class declaration file for the SkipList ADT.
 
 #pragma once
 

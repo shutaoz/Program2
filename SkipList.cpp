@@ -1,6 +1,9 @@
-//
-// Created by Shutao Zhang on 5/1/21.
-//
+// SkipList.cpp
+// Created by Shutao Zhang on 5/03/21.
+// The file is the .cpp file for the skiplist container class, the skiplist class is an ADT that has better efficiency than linked
+// list or array. it has the following methods: insertion, which adds a new node to the lsit, erase, which
+// takes out a node from the list and contains which returns true if the item passed in is contained within the list,
+// the data member it manages is mainly an array of pointers that points to a list of nodes.
 
 #include "SkipList.h"
 #include <random>
